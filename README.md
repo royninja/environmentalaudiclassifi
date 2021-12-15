@@ -1,2 +1,2 @@
-# environmentalaudiclassifi
+# environmentalaudioclassification
 Environmental Audio Classification using machine learning
